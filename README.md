@@ -37,7 +37,7 @@ and ping tests were executed between the nodes as a Proof of Concept.
 This motivated us to develop complex experiments on the Fabric Platform.
 
 ### POC using FabAPI
-Fabric platform is still involving with addition of several APIs and 
+Fabric platform is still evolving with addition of several APIs and 
 experiments. Hence, it's very important for us as well to make our experiments compatible
 with these evolving APIs.
 
