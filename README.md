@@ -20,8 +20,8 @@ More details about Fabric can be found in the below paper:
 https://ieeexplore.ieee.org/iel7/4236/8970628/08972790.pdf
 
 ## Network Experiments
-We are using Fabric platform to develop our experiments i.e. how different factors
-influence the network. This requires setting up the code of LA on Fabric.
+We are using Fabric platform to develop our experiments i.e. to study the effect of different factors
+on the network. This requires setting up the code of LA on Fabric.
 Fabric provides to flexibility to develop experiments with the help of 
 Jupyter Notebook. Hence, three notebooks have been generated so far.
 
